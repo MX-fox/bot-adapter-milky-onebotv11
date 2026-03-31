@@ -1,0 +1,14 @@
+.git
+.gitignore
+.github
+README.md
+LICENSE
+dist
+*.md
+*.json
+!config.example.json
+go.sum
+cmd
+internal
+*.test
+*_test.go
